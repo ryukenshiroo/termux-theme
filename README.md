@@ -58,7 +58,7 @@ git clone --depth=1 https://github.com/mayTermux/myTermux.git
 - Move to Folder
 
 ```bash
-cd myTermux
+cd termux-theme
 ```
 
 - export variable `COLUMNS` and `LINES`
@@ -74,7 +74,7 @@ export COLUMNS LINES
 - Execute Installer
 
 ```bash
-./install.sh
+bash install.sh
 ```
 
 ![Error](https://user-images.githubusercontent.com/64394320/170210843-a4ee5203-2892-4083-81a8-fe89981cac80.png)
